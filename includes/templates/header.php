@@ -8,7 +8,7 @@
     <!-- Compiled and minified CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css" />
 
-    <link rel="stylesheet" href="css/styles.css" />
+    <link rel="stylesheet" href="/css/styles.css" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>WBC Cares </title>
 </head>
@@ -18,7 +18,7 @@
         <div class="navbar-fixed">
             <nav class=" z-depth-0">
                 <div class="nav-wrapper">
-                    <a href="index.php" class="brand-logo left"><img class="header-cares--logo" src="imgs/Logo-OUT.svg" alt="Logo WBC Cares" onmouseover="this.src='imgs/Logo-OVER.svg';" onmouseout="this.src='imgs/Logo-OUT.svg';" /></a>
+                    <a href="index.php" class="brand-logo left"><img class="header-cares--logo" src="/imgs/Logo-OUT.svg"  alt="Logo WBC Cares" onmouseover="this.src='imgs/Logo-OVER.svg';" onmouseout="this.src='imgs/Logo-OUT.svg';" /></a>
                     <ul class="right hide-on-med-and-down">
                         <li><a class="links" href="about.php">About us</a></li>
                         <li><a class="links" href="stories.php">Stories</a></li>
@@ -35,7 +35,7 @@
         <ul id="slide-out" class="sidenav">
             <li>
                 <div class="contain-menu">
-                    <img src="imgs/logo-out.png" width="90" />
+                    <img src="/imgs/logo-out.png" width="90" />
                     <a class="sidenav-close" href="#!">Close</a>
                 </div>
             </li>

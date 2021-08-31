@@ -33,7 +33,7 @@
 <!-- Compiled and minified JavaScript -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
 <script src="https://kit.fontawesome.com/97f6e04dbb.js" crossorigin="anonymous"></script>
-<script src="js/main.js"></script>
+<script src="/js/main.js"></script>
 </body>
 
 </html>
