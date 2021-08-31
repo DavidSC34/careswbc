@@ -53,7 +53,7 @@ main {
 }
 
 .header-cares--logo {
-    width: 35%;
+    width: 28%;
     /* width: 130px; */
 }
 
@@ -346,11 +346,13 @@ main {
 
 .contact,
 .donate,
-.stories {
+.stories,
+.affiliated {
     background-color: #fff;
 }
 
-.contact h3 {
+.contact h3,
+.affiliated h3 {
     font-family: Begum;
     font-weight: 400;
 }
@@ -418,6 +420,13 @@ main {
     background: transparent;
     justify-content: center;
     align-items: center;
+}
+
+
+/*Affiliated programas*/
+
+.affiliated .collection .title {
+    font-weight: bold;
 }
 
 @media all and (min-width: 981px) {
